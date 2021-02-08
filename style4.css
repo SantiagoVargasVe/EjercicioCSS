@@ -1,0 +1,16 @@
+label:first-of-type{
+    color:orange;
+    font-weight: bold;
+    font-size: 25px;
+}
+* {
+    font-size: 20px;
+}
+input:nth-child(1){
+    background-color: greenyellow;
+    margin-bottom: 15px;
+}
+
+input:nth-of-type(2){
+    background-color: greenyellow;
+}
